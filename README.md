@@ -125,6 +125,7 @@ Special thanks to the following contributors who have dedicated their time and e
 - Feten Ben
 - Lydia Chibout
 - Lamia Sekkai
+- Yassin Abdulmahdi
 
 Your contributions have played a crucial role in making this project a success. Your dedication and hard work are greatly appreciated. Thank you for being a valuable part of the team!
 
@@ -133,6 +134,5 @@ Your contributions have played a crucial role in making this project a success. 
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yassin-abdulmahdi/) •
+[Gmail](yasinalmhdi8@gmail.com)
