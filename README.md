@@ -125,11 +125,9 @@ Special thanks to the following contributors who have dedicated their time and e
 - Feten Ben
 - Lydia Chibout
 - Lamia Sekkai
-- Yassin Abdulmahdi
 
 Your contributions have played a crucial role in making this project a success. Your dedication and hard work are greatly appreciated. Thank you for being a valuable part of the team!
 
-![image](https://github.com/Hamagistral/Omdena-france-strikes-transportation/assets/66017329/4446fd96-57b2-4293-9c85-1a7c90ac4922)
 
 <a name="contact"></a>
 ## 📨 Contact Me
